@@ -1,0 +1,6 @@
+
+What is shell?
+A shell is special user program which provide an interface to user to use operating system services. Shell accept human readable commands from user and convert them into something which kernel can understand. It is a command language interpreter that execute commands read from input devices such as keyboards or from files. The shell gets started when the user logs in or start the terminal.
+
+Shell scripting is used to create automated scripts that are tasked to make our daily regiment easier like backing up of log files , archiving log files etc.
+
